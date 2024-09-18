@@ -1,0 +1,18 @@
+{
+  "name": "react-home-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4",
+    "prisma": "^5.19.1"
+  }
+}
